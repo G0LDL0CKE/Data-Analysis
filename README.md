@@ -5,4 +5,4 @@ Analyse Data mostly with Python in Jupyter Notebooks
 - Analyse Taxdata
 - Analyse KryptoTradings for Taxes 
 
-Please feel free to reach out for more Information.
+Feel free to contact us for more information.
